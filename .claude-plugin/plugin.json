@@ -9,6 +9,7 @@
   },
   "homepage": "https://futoroku.app/about",
   "repository": "https://github.com/epfmydx/futoroku-plugin-claude",
+  "license": "MIT",
   "keywords": ["finance", "expenses", "bookkeeping", "receipts"],
   "icon": "./assets/logo-512.png",
   "supportUrl": "https://futoroku.app/help",
