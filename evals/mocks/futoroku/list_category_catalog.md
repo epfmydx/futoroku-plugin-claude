@@ -1,0 +1,1 @@
+{"status":"ok","data":{"items":[{"id":301,"name":"Food","group":"expense","is_active":true},{"id":302,"name":"Salary","group":"income","is_active":true}],"page":1,"per_page":50,"total":2,"has_more":false}}

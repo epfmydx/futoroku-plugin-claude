@@ -1,0 +1,1 @@
+{"status":"ok","data":{"year":2026,"month":10,"ledger_id":101,"tz":"Asia/Kuala_Lumpur","totals":[{"currency":"RM","income":"100.00","expense":"10.00"}],"categories":[{"name":"Food","currency":"RM","expense":"10.00"},{"name":"Salary","currency":"RM","income":"100.00"}]}}

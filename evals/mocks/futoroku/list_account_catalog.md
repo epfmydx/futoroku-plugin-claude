@@ -1,0 +1,1 @@
+{"status":"ok","data":{"items":[{"id":201,"name":"Cash RM","currency":"RM","balance":"1000.00","is_active":true},{"id":202,"name":"Savings USD","currency":"USD","balance":"0.00","is_active":true}],"page":1,"per_page":50,"total":2,"has_more":false}}

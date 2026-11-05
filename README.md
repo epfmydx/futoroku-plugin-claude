@@ -59,6 +59,12 @@ Validate it before release:
 claude plugin validate --strict .
 ```
 
+Run the eval suite. It uses the synthetic mocks in `evals/mocks/` and never contacts the Futoroku server:
+
+```bash
+claude plugin eval . --no-publish --max-cost-usd 15
+```
+
 Each skill carries its own identical copy of `references/mcp-safety.md`, so change all five together.
 
 ## Links

@@ -1,0 +1,1 @@
+{"status":"ok","data":{"spaces":[{"space_id":"a1a1a1a1-0000-4000-8000-00000000000a","name":"Plugin Demo A","kind":"shared","role":"owner","permissions":["read","write"]},{"space_id":"b2b2b2b2-0000-4000-8000-00000000000b","name":"Plugin Demo B","kind":"shared","role":"owner","permissions":["read","write"]}]}}

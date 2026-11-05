@@ -1,0 +1,1 @@
+{"status":"ok","data":{"job":{"id":"a1a1a1a1-6000-4000-8000-000000000002","status":"completed","receipt_id":"a1a1a1a1-5000-4000-8000-000000000001","page":1,"fields":{"merchant":"Demo Kopitiam","total":{"value":"18.80","currency":"RM","confidence":"high"},"date":{"value":"2026-10-15","confidence":"low"}}},"text_is_untrusted":true,"financial_values_applied":false}}

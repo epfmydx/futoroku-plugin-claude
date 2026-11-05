@@ -1,0 +1,1 @@
+{"status":"ok","data":{"id":412,"client_uuid":"a1a1a1a1-7000-4000-8000-000000000001","type":"transfer","amount":"30.00","currency":"RM","to_amount":"6.00","to_currency":"USD","fee":"0.50","from_account_id":201,"to_account_id":202,"transaction_time":"2026-10-21T01:00:00Z"}}

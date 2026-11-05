@@ -1,0 +1,1 @@
+{"status":"ok","data":{"id":411,"client_uuid":"a1a1a1a1-7000-4000-8000-000000000001","type":"expense","amount":"18.80","currency":"RM","ledger_id":101,"account_id":201,"category_id":301,"transaction_time":"2026-10-20T04:30:00Z","include_in_budget":true}}

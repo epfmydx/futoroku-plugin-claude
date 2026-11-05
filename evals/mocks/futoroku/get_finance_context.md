@@ -1,0 +1,1 @@
+{"status":"ok","data":{"space_id":"a1a1a1a1-0000-4000-8000-00000000000a","role":"owner","usage":{"mcp_writes_remaining":100},"excluded_consent":["journal","account_security","membership_management","billing_actions","complete_space_restore"]}}

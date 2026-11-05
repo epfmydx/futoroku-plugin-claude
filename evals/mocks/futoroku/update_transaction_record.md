@@ -1,0 +1,1 @@
+{"status":"ok","data":{"id":402,"client_uuid":"a1a1a1a1-7000-4000-8000-000000000001","type":"expense","amount":"18.30","currency":"RM","remark":"PLUGIN-DEMO-CORRECTION","updated_at":"2026-10-22T02:00:00Z"}}
