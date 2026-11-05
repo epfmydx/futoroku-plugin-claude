@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "futoroku": {
+      "type": "http",
+      "url": "https://futoroku.app/mcp",
+      "oauth": {
+        "scopes": "finance:read finance:write"
+      }
+    }
+  }
+}

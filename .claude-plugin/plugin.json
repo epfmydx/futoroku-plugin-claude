@@ -1,0 +1,17 @@
+{
+  "name": "futoroku",
+  "displayName": "futoroku",
+  "version": "0.1.0",
+  "description": "Record and review everyday finances in your approved Futoroku Spaces.",
+  "author": {
+    "name": "EPFMy DigitalX Services",
+    "email": "peng-fong.er@epf.my"
+  },
+  "homepage": "https://futoroku.app/about",
+  "repository": "https://github.com/epfmydx/futoroku-plugin-claude",
+  "keywords": ["finance", "expenses", "bookkeeping", "receipts"],
+  "icon": "./assets/logo-512.png",
+  "supportUrl": "https://futoroku.app/help",
+  "privacyPolicyUrl": "https://futoroku.app/privacy",
+  "termsOfServiceUrl": "https://futoroku.app/terms"
+}

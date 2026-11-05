@@ -1,0 +1,15 @@
+{
+  "name": "futoroku",
+  "description": "Futoroku plugins for Claude.",
+  "owner": {
+    "name": "EPFMy DigitalX Services",
+    "email": "peng-fong.er@epf.my"
+  },
+  "plugins": [
+    {
+      "name": "futoroku",
+      "source": "./",
+      "description": "Record and review everyday finances in your approved Futoroku Spaces."
+    }
+  ]
+}
