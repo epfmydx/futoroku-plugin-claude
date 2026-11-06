@@ -277,7 +277,7 @@
   {
    "name": "report_monthly_detail",
    "title": "Report monthly detail",
-   "description": "Monthly category breakdown and daily totals in an explicit IANA timezone; pass currency for a mixed scope; currencies are never combined.\n\nSelect the destination with space_id from list_spaces and preserve it on retries. Reads may omit it when exactly one approved Space is available. Writes require it for multi-Space or future-Space grants; only fixed single-Space grants permit omission. Read-only: does not consume the monthly MCP write allowance and remains available when it is exhausted. Reads return fresh data; request_id is accepted for compatibility but does not cache the result. Temporary MCP safety limits apply to reads, writes and retries independently of monthly usage. If throttled, wait retry_after_seconds before retrying; preserve request_id and arguments for writes.",
+   "description": "Monthly category breakdown and daily totals in an explicit IANA timezone; supply currency for a mixed scope; currencies are never combined.\n\nSelect the destination with space_id from list_spaces and preserve it on retries. Reads may omit it when exactly one approved Space is available. Writes require it for multi-Space or future-Space grants; only fixed single-Space grants permit omission. Read-only: does not consume the monthly MCP write allowance and remains available when it is exhausted. Reads return fresh data; request_id is accepted for compatibility but does not cache the result. Temporary MCP safety limits apply to reads, writes and retries independently of monthly usage. If throttled, wait retry_after_seconds before retrying; preserve request_id and arguments for writes.",
    "inputSchema": {
     "properties": {
      "currency": {
